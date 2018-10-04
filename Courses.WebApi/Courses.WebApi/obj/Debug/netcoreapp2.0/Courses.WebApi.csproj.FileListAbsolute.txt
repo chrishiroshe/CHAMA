@@ -1,0 +1,11 @@
+C:\Projetos\Chama\Courses.WebApi\Courses.WebApi\bin\Debug\netcoreapp2.0\Courses.WebApi.deps.json
+C:\Projetos\Chama\Courses.WebApi\Courses.WebApi\bin\Debug\netcoreapp2.0\Courses.WebApi.runtimeconfig.json
+C:\Projetos\Chama\Courses.WebApi\Courses.WebApi\bin\Debug\netcoreapp2.0\Courses.WebApi.runtimeconfig.dev.json
+C:\Projetos\Chama\Courses.WebApi\Courses.WebApi\bin\Debug\netcoreapp2.0\Courses.WebApi.dll
+C:\Projetos\Chama\Courses.WebApi\Courses.WebApi\bin\Debug\netcoreapp2.0\Courses.WebApi.pdb
+C:\Projetos\Chama\Courses.WebApi\Courses.WebApi\obj\Debug\netcoreapp2.0\Courses.WebApi.csprojAssemblyReference.cache
+C:\Projetos\Chama\Courses.WebApi\Courses.WebApi\obj\Debug\netcoreapp2.0\Courses.WebApi.csproj.CoreCompileInputs.cache
+C:\Projetos\Chama\Courses.WebApi\Courses.WebApi\obj\Debug\netcoreapp2.0\Courses.WebApi.AssemblyInfoInputs.cache
+C:\Projetos\Chama\Courses.WebApi\Courses.WebApi\obj\Debug\netcoreapp2.0\Courses.WebApi.AssemblyInfo.cs
+C:\Projetos\Chama\Courses.WebApi\Courses.WebApi\obj\Debug\netcoreapp2.0\Courses.WebApi.dll
+C:\Projetos\Chama\Courses.WebApi\Courses.WebApi\obj\Debug\netcoreapp2.0\Courses.WebApi.pdb

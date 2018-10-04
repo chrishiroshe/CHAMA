@@ -1,0 +1,14 @@
+C:\Projetos\Chama\Courses.Infra.Data\bin\Debug\netcoreapp2.1\Courses.Infra.Data.deps.json
+C:\Projetos\Chama\Courses.Infra.Data\bin\Debug\netcoreapp2.1\Courses.Infra.Data.dll
+C:\Projetos\Chama\Courses.Infra.Data\obj\Debug\netcoreapp2.1\Courses.Infra.Data.csprojAssemblyReference.cache
+C:\Projetos\Chama\Courses.Infra.Data\obj\Debug\netcoreapp2.1\Courses.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Projetos\Chama\Courses.Infra.Data\obj\Debug\netcoreapp2.1\Courses.Infra.Data.AssemblyInfoInputs.cache
+C:\Projetos\Chama\Courses.Infra.Data\obj\Debug\netcoreapp2.1\Courses.Infra.Data.AssemblyInfo.cs
+C:\Projetos\Chama\Courses.Infra.Data\bin\Debug\netcoreapp2.1\Courses.Infra.Data.pdb
+C:\Projetos\Chama\Courses.Infra.Data\bin\Debug\netcoreapp2.1\Courses.Domain.dll
+C:\Projetos\Chama\Courses.Infra.Data\bin\Debug\netcoreapp2.1\Courses.Domain.pdb
+C:\Projetos\Chama\Courses.Infra.Data\obj\Debug\netcoreapp2.1\Courses.Infra.Data.csproj.CopyComplete
+C:\Projetos\Chama\Courses.Infra.Data\obj\Debug\netcoreapp2.1\Courses.Infra.Data.dll
+C:\Projetos\Chama\Courses.Infra.Data\obj\Debug\netcoreapp2.1\Courses.Infra.Data.pdb
+C:\Projetos\Chama\Courses.Infra.Data\bin\Debug\netcoreapp2.1\Courses.Infra.Data.runtimeconfig.json
+C:\Projetos\Chama\Courses.Infra.Data\bin\Debug\netcoreapp2.1\Courses.Infra.Data.runtimeconfig.dev.json

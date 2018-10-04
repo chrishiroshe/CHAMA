@@ -1,0 +1,14 @@
+C:\Projetos\Chama\Courses.ServiceBus\bin\Debug\netcoreapp2.1\Courses.ServiceBus.deps.json
+C:\Projetos\Chama\Courses.ServiceBus\bin\Debug\netcoreapp2.1\Courses.ServiceBus.runtimeconfig.json
+C:\Projetos\Chama\Courses.ServiceBus\bin\Debug\netcoreapp2.1\Courses.ServiceBus.runtimeconfig.dev.json
+C:\Projetos\Chama\Courses.ServiceBus\bin\Debug\netcoreapp2.1\Courses.ServiceBus.dll
+C:\Projetos\Chama\Courses.ServiceBus\bin\Debug\netcoreapp2.1\Courses.ServiceBus.pdb
+C:\Projetos\Chama\Courses.ServiceBus\obj\Debug\netcoreapp2.1\Courses.ServiceBus.csprojAssemblyReference.cache
+C:\Projetos\Chama\Courses.ServiceBus\obj\Debug\netcoreapp2.1\Courses.ServiceBus.csproj.CoreCompileInputs.cache
+C:\Projetos\Chama\Courses.ServiceBus\obj\Debug\netcoreapp2.1\Courses.ServiceBus.AssemblyInfoInputs.cache
+C:\Projetos\Chama\Courses.ServiceBus\obj\Debug\netcoreapp2.1\Courses.ServiceBus.AssemblyInfo.cs
+C:\Projetos\Chama\Courses.ServiceBus\obj\Debug\netcoreapp2.1\Courses.ServiceBus.dll
+C:\Projetos\Chama\Courses.ServiceBus\obj\Debug\netcoreapp2.1\Courses.ServiceBus.pdb
+C:\Projetos\Chama\Courses.ServiceBus\bin\Debug\netcoreapp2.1\Courses.Domain.dll
+C:\Projetos\Chama\Courses.ServiceBus\bin\Debug\netcoreapp2.1\Courses.Domain.pdb
+C:\Projetos\Chama\Courses.ServiceBus\obj\Debug\netcoreapp2.1\Courses.ServiceBus.csproj.CopyComplete

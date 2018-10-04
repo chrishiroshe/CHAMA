@@ -1,0 +1,9 @@
+C:\Projetos\Chama\Courses.Email\bin\Debug\netstandard2.0\Courses.Email.deps.json
+C:\Projetos\Chama\Courses.Email\bin\Debug\netstandard2.0\Courses.Email.dll
+C:\Projetos\Chama\Courses.Email\bin\Debug\netstandard2.0\Courses.Email.pdb
+C:\Projetos\Chama\Courses.Email\obj\Debug\netstandard2.0\Courses.Email.csprojAssemblyReference.cache
+C:\Projetos\Chama\Courses.Email\obj\Debug\netstandard2.0\Courses.Email.csproj.CoreCompileInputs.cache
+C:\Projetos\Chama\Courses.Email\obj\Debug\netstandard2.0\Courses.Email.AssemblyInfoInputs.cache
+C:\Projetos\Chama\Courses.Email\obj\Debug\netstandard2.0\Courses.Email.AssemblyInfo.cs
+C:\Projetos\Chama\Courses.Email\obj\Debug\netstandard2.0\Courses.Email.dll
+C:\Projetos\Chama\Courses.Email\obj\Debug\netstandard2.0\Courses.Email.pdb

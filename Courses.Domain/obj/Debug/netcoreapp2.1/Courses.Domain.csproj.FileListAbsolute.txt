@@ -1,0 +1,9 @@
+C:\Projetos\Chama\Courses.Domain\obj\Debug\netcoreapp2.1\Courses.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\Chama\Courses.Domain\obj\Debug\netcoreapp2.1\Courses.Domain.AssemblyInfoInputs.cache
+C:\Projetos\Chama\Courses.Domain\obj\Debug\netcoreapp2.1\Courses.Domain.AssemblyInfo.cs
+C:\Projetos\Chama\Courses.Domain\bin\Debug\netcoreapp2.1\Courses.Domain.deps.json
+C:\Projetos\Chama\Courses.Domain\bin\Debug\netcoreapp2.1\Courses.Domain.dll
+C:\Projetos\Chama\Courses.Domain\bin\Debug\netcoreapp2.1\Courses.Domain.pdb
+C:\Projetos\Chama\Courses.Domain\obj\Debug\netcoreapp2.1\Courses.Domain.dll
+C:\Projetos\Chama\Courses.Domain\obj\Debug\netcoreapp2.1\Courses.Domain.pdb
+C:\Projetos\Chama\Courses.Domain\obj\Debug\netcoreapp2.1\Courses.Domain.csprojAssemblyReference.cache

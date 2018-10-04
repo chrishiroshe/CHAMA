@@ -1,0 +1,16 @@
+C:\Projetos\Chama\Courses.Application\bin\Debug\netcoreapp2.1\Courses.Application.deps.json
+C:\Projetos\Chama\Courses.Application\bin\Debug\netcoreapp2.1\Courses.Application.dll
+C:\Projetos\Chama\Courses.Application\bin\Debug\netcoreapp2.1\Courses.Application.pdb
+C:\Projetos\Chama\Courses.Application\obj\Debug\netcoreapp2.1\Courses.Application.csproj.CoreCompileInputs.cache
+C:\Projetos\Chama\Courses.Application\obj\Debug\netcoreapp2.1\Courses.Application.AssemblyInfoInputs.cache
+C:\Projetos\Chama\Courses.Application\obj\Debug\netcoreapp2.1\Courses.Application.AssemblyInfo.cs
+C:\Projetos\Chama\Courses.Application\obj\Debug\netcoreapp2.1\Courses.Application.dll
+C:\Projetos\Chama\Courses.Application\obj\Debug\netcoreapp2.1\Courses.Application.pdb
+C:\Projetos\Chama\Courses.Application\bin\Debug\netcoreapp2.1\Courses.Domain.dll
+C:\Projetos\Chama\Courses.Application\bin\Debug\netcoreapp2.1\Courses.Domain.pdb
+C:\Projetos\Chama\Courses.Application\obj\Debug\netcoreapp2.1\Courses.Application.csprojAssemblyReference.cache
+C:\Projetos\Chama\Courses.Application\obj\Debug\netcoreapp2.1\Courses.Application.csproj.CopyComplete
+C:\Projetos\Chama\Courses.Application\bin\Debug\netcoreapp2.1\Courses.ServiceBus.dll
+C:\Projetos\Chama\Courses.Application\bin\Debug\netcoreapp2.1\Courses.ServiceBus.pdb
+C:\Projetos\Chama\Courses.Application\bin\Debug\netcoreapp2.1\Courses.Email.dll
+C:\Projetos\Chama\Courses.Application\bin\Debug\netcoreapp2.1\Courses.Email.pdb
